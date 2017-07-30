@@ -4,4 +4,4 @@ Description:
 - A2: Program that converts a set of such vocabularies stored in file Latin into a set of English-Latin vocabularies.
 
 *** HOW TO RUN: Right click on GUI-> run file->Choose File->Show***
-NOTE: Each program in each pagekage have a compatible file for running
+(Each program in each pagekage have a compatible file for running)
